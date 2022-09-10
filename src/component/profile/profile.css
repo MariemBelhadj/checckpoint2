@@ -1,0 +1,10 @@
+.profilephoto{
+ display: flex;
+ align-items: center;
+ 
+}
+.profilephoto img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
